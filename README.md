@@ -1,1 +1,1 @@
-## Repositorio destinado para aulas do curso de modelagem na UESC ## 
+## Repositório destinado às aulas do curso de modelagem na UESC ## 
